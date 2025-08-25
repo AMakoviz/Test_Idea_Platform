@@ -61,6 +61,8 @@ SU        | 00d 06h 00m
 S7        | 00d 06h 30m
 TK        | 00d 05h 50m
 BA        | 00d 08h 05m
+Average price: 13960.0
+Median price: 13500.0
 Difference between average and median price is: 460.0
 ```
 
@@ -72,6 +74,8 @@ Difference between average and median price is: 460.0
   - **S7**: 6ч 30м  
   - **SU**: 6ч 00м  
   - **BA**: 8ч 05м
+  - **Средняя цена**: 13960.0
+  - **Медианная цена**: 13500.0
   - **Разница (avg − median)**: **460.00**
 
 ## Структура проекта
