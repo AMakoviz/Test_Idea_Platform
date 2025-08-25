@@ -24,6 +24,8 @@ public class Main {
         List<Ticket> tickets = getTickets(path);
 
         printMap(mapOfCarrier(tickets));
+        System.out.println("Average price: " + avgPrice(tickets));
+        System.out.println("Median price: " + medianPrice(tickets));
         System.out.println("Difference between average and median price is: " + (avgPrice(tickets) - medianPrice(tickets)));
     }
 
